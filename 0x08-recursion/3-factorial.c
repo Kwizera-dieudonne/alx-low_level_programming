@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- *facorial - return fact of mumber
+ *factorial - return fact of mumber
  *@n: input
  *Return: factorial
  */
